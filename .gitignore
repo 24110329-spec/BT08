@@ -1,0 +1,25 @@
+# Thư mục build & nhị phân
+/bin/
+/target/
+*.class
+*.jar
+*.war
+
+# Thư mục chứa ảnh upload lúc test
+uploads/
+
+# Cài đặt riêng của Eclipse
+.settings/
+.project
+.classpath
+
+# Cài đặt riêng của IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Cài đặt riêng của VS Code
+.vscode/
+
+# Log
+*.log
